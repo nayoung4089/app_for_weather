@@ -16,14 +16,14 @@ const weatherOptions = {
         iconName:"weather-partly-rainy",
         gradient: ["#9796f0", "#fbc7d4"],
         title: "보슬비가 보슬보슬",
-        subtitle:"이정도는 맞아도 탈모 안 생겨요 \n #사실 #탈모는 #안씻으면 #생겨요 ",
+        subtitle:"이정도는 맞아도 탈모 안 생겨요 \n #사실 #탈모는 #안씻으면 #생기던데 #경험담아님 ",
 
     },
     Rain:{
         iconName:"weather-rainy",
         gradient: ["#000C40","#ECE9E6"],
         title: "창문은 닫았나요?",
-        subtitle:"파전에 막걸리 군침 싹 도네 \n #오늘은 #파전 #딸기막걸리 #먹고싶다",
+        subtitle:"파전에 막걸리 군침 싹 도네 \n #오늘은 #백종원보고 #파전에 #막걸리 #참쉽쥬?",
 
     },
     Snow:{
@@ -118,7 +118,7 @@ const weatherOptions = {
         iconName: "weather-partly-cloudy",
         gradient: ["#00416A","#E4E5E6"],
         title: "심상치 않은 꾸리꾸리",
-        subtitle:"비 올것만 같은 눅눅한 날씨, 우산 꼭 챙기세요! \n #여름날의 #구름은 #햇살가려서 #좋긴해요",
+        subtitle:"비 올것만 같은 눅눅한 날씨, 우산 꼭 챙기세요! \n #여름날의 #구름은 #햇살가려서 #좋지만요",
 
     },
 
